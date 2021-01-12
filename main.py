@@ -13,3 +13,5 @@ print("World")
 #Concatenation: add 2 strings together using '+'
 
 print("Hello" + "World")
+
+print("Hi.")
